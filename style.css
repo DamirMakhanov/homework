@@ -1,0 +1,11 @@
+.Black {
+    color: red;
+    font-size: 26px;
+    font-family: Roboto, sans-serif;
+    font-weight: bold;
+
+    -webkit-box-shadow: 38px 58px 53px 25px rgba(0, 253, 63, 0.2);
+-moz-box-shadow: 38px 58px 53px 25px rgba(0, 253, 63, 0.2);
+box-shadow: 38px 58px 53px 25px rgba(0, 253, 63, 0.2);
+    border-style: dotted; color: green; border-style: 5px;
+    }
